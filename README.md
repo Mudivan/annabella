@@ -1,2 +1,2 @@
-# annabella
-Projeto de modelo fictício
+# Site Anna Bella
+Projeto de uma modelo fictício
