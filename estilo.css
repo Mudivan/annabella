@@ -1,16 +1,42 @@
+@charset 'UTF-8'
+
 * {
 
 }
-
 
 
 body {
 	background: #d2d2d2c1 url('imagens/fundo.png');
 	font: 16px Arial, helvetica, sans-serif;
 }
-
 #principal {
 	width: 900px;
+}
+
+.titulos {
+	color: #FABC8C;
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.links {
+	background-color: #c5c5b2;
+	text-align: center;
+}
+
+a {
+	padding: 5px;
+	text-decoration: none;
+	color: #FABC8C;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px black;
+	font-size: 1.5em;
+}
+
+a:hover {
+	color: black; 
 }
 
 .conteudo {
@@ -21,26 +47,14 @@ p {
 	margin 2px;
 	font-family: FreeMono, monospace;
 }
-.titulos {
-	color: #FABC8C;
-	text-shadow: 1px 1px 1px black;
-	text-align: center;
-}
-
-.links {
-	text-decoration: none;
-	color: #FABC8C;
-	font-weight: bold;
-	text-shadow: 2px 2px 2px black;
-	font-size: 1.5em;
-}
 
 img {
 	border: solid;
-	border-width: 10px;
+	border-width: 5px;
 	border-color: #FABC8C;
 	border-radius: 10px;
 	margin: 2px;
+	box-shadow: 1px 1px 1px black;
 }
 
 footer {
