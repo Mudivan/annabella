@@ -17,6 +17,9 @@ Tags usadas:
   - Usado para dar ênfase à informações,como e-mail e contato na página de contatos;
 - `<footer>` 
   - Usado para o roodapé da página;
+- `lorem` 
+   - Para Gerar o conteúdo;
+  
 
 ### CSS3
 - .Class 
